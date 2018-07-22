@@ -1,8 +1,9 @@
 # 小程序扇贝单词大师辅助程序
 > 该程序是在知乎答题王（小程序头脑王者）辅助工具的基础上添加了单词大师辅助功能，因此也兼容知乎答题王（小程序头脑王者），首先感谢知乎答题王（小程序头脑王者）辅助工具的作者大大。
 
-# 安装部署方式
-- 请参见知乎答题王（小程序头脑王者）辅助工具的README[https://github.com/sundy-li/wechat_brain](https://github.com/sundy-li/wechat_brain)
+# 运行部署方式
+- 直接运行，执行命令`go run cmd/main.go`
+- 其它方式请参见知乎答题王（小程序头脑王者）辅助工具的README[https://github.com/sundy-li/wechat_brain](https://github.com/sundy-li/wechat_brain)
 
 # 说明
 - 答案中添加了`♠`符号的答案项即为正确答案
