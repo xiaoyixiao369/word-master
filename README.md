@@ -8,7 +8,7 @@
 
 # 说明
 - 答案中添加了`♠`符号的答案项即为正确答案
-- 正确答案是通过扇贝单词大师的官方查询接口获得的，因此最大限度地保证了正确性
+- 正确答案是通过扇贝官方查询接口获得的，因此最大限度地保证了答案的正确性
 
 # Screenshot
 ![](https://raw.githubusercontent.com/igordonxiao/word-master/master/screenshot/sc1.jpeg)
